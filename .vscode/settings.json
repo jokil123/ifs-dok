@@ -1,0 +1,28 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "173.212.249.144",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "FF-2023",
+      "database": "parkour",
+      "username": "u5_EEOmiRzZOm",
+      "password": "7+WmA6CdH6rYwQAr8A=p@nlS"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "username": "postgres",
+      "database": "postgres",
+      "password": "postgres",
+      "name": "postgres"
+    }
+  ]
+}
